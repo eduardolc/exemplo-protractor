@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites disabled="0" errors="0" failures="0" tests="3" time="16.81">
+ <testsuite name="Teste de login no App" timestamp="2018-06-14T11:35:36" hostname="localhost" time="16.81" errors="0" tests="3" skipped="0" disabled="0" failures="0">
+  <testcase classname="Teste de login no App" name="Validar logo Index" time="7.968" />
+  <testcase classname="Teste de login no App" name="Efetuar o login no App" time="4.761" />
+  <testcase classname="Teste de login no App" name="Validar logo Inicial" time="4.079" />
+ </testsuite>
+</testsuites>
